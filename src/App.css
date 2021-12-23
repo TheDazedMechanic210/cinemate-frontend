@@ -1,5 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Sacramento&display=swap');
+
 .App {
   text-align: center;
+}
+
+body{
+  font-family: "Open Sans",sans-serif;
 }
 
 .App-logo {
