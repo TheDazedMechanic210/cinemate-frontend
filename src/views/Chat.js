@@ -245,7 +245,7 @@ class Chat extends React.Component {
                 <div className="header">
                     <div class="header-content">
                         <div className="text-logo">
-                            <Link to="/"><img className="logo" src={logo} /></Link>
+                            <Link to="/"><img className="logo" src={logo} ></img></Link>
                         </div>
                         <div className="navbar">
                             <div className="selectedNav">  <Link to="/chat"><strong> Chat </strong></Link> </div>

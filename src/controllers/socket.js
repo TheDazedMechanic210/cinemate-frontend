@@ -1,3 +1,5 @@
 import {io} from "socket.io-client";
-const ENDPOINT = 'http://localhost:8080';
+const config = require("../config/config")
+
+const ENDPOINT = config.IO_URL
 export default io(ENDPOINT);

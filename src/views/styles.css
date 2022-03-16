@@ -1,11 +1,9 @@
 .logo{
     height: 5vh;
     width: 5vw;
-    opacity: 100%;
     object-fit: contain;
     margin-top: 2%;
     margin-left: 2%;
-    z-index: 30;
     position: relative;
   }
 
@@ -21,7 +19,7 @@
 
 .center-logo{
     height: 10%;
-    width: 10%;
+    width: 10%; 
 }
 
 .Center{

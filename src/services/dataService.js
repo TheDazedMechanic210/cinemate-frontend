@@ -4,8 +4,8 @@ const config = require("../config/config")
 
 
 const posterApi_URL = "https://www.omdbapi.com/?apikey=991c188b&t=";
-const movie_URL = "http://www.omdbapi.com/?apikey=991c188b&s="
-const movie_URL_Abs = "http://www.omdbapi.com/?apikey=991c188b&t="
+const movie_URL = "//www.omdbapi.com/?apikey=991c188b&s="
+const movie_URL_Abs = "//www.omdbapi.com/?apikey=991c188b&t="
 class userServ{
     async getUserContent() {
 
