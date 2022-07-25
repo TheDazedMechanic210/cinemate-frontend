@@ -3,11 +3,11 @@ A simple movie-based matchmaking website where you maintain a list of movies you
 
 ##Technologies Used:
 
-**For Chat Functionality** : Socket.io
-**UI Framework** : React.js
-**Movie Database** : [TMDB Movie Api](https://www.themoviedb.org/)
-**Authentication** : JsonWebToken
-**Database** : MongoDB
+**For Chat Functionality** : Socket.io <br/>
+**UI Framework** : React.js <br/>
+**Movie Database** : [TMDB Movie Api](https://www.themoviedb.org/) <br/>
+**Authentication** : JsonWebToken <br/>
+**Database** : MongoDB <br/>
 
 Backend : https://github.com/ranjan210/cinemate-backend
 
