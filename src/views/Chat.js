@@ -4,7 +4,6 @@ import authservice from "../services/authservice";
 import userServ from "../services/dataService"
 
 import { Link } from "react-router-dom"
-import { useLocation } from 'react-router-dom'
 import "./chat_styles.css"
 import socket from "../controllers/socket"
 const API_URL = "http://localhost:8080/api/";

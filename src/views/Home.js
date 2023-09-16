@@ -32,14 +32,14 @@ export default class Home extends React.Component {
         else{
 
         return (
-            <div>
-                        <div className="header" >
+            <div className="Center">
+                        {/* <div className="header" >
                             <Link to="/"> <img className="logo-off" src={logo} /> </Link>
                             <div className="navbar">
                                 <div>  <Link to="/signup"> Sign Up </Link> </div>
                                 <div >  <Link to="/login">  Sign In  </Link> </div>
                             </div>
-                        </div>
+                        </div> */}
                 <div className="Center">
                 <div className = "Row">
                 <img className="center-logo" src={logo} />
@@ -49,7 +49,7 @@ export default class Home extends React.Component {
                EXPLORE THE MOVIES WITH A MATE.
                 </div>
                 <div>
-                <Link to="/signup"> <button className="Button">SIGN UP</button> </Link>
+                <Link to="/signup"> <button className="Button">sign up/login </button> </Link>
                 </div>
                 </div>
             </div>
